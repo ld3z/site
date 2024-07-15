@@ -1,0 +1,6 @@
+[book]
+authors = ["ld3zian"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Test"

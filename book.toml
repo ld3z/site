@@ -17,3 +17,7 @@ command = "mdbook-admonish"
 assets_version = "3.0.2" # do not edit: managed by `mdbook-admonish install`
 
 [preprocessor.embedify]
+announcement-banner.enable = true
+announcement-banner.id = "1"
+announcement-banner.theme = "default"
+announcement-banner.message = "Check out the Pig 64 guide [here](./src/pig64.md)!"

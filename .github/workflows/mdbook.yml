@@ -51,7 +51,7 @@ jobs:
           tag=$(curl 'https://api.github.com/repos/MR-Addict/mdbook-embedify/releases/latest' | jq -r '.tag_name')
           url="https://github.com/MR-Addict/mdbook-embedify/releases/download/${tag}/mdbook-embedify-${tag}-x86_64-unknown-linux-gnu.zip"
           mkdir mdbook-embedify
-          wget -q -O tmp.zip $url && unzip tmp.zip && rm tmp.zip
+          wget -q -O mdbook-embedify.zip $url && unzip mdbook-embedify.zip && rm mdbook-embedify.zip
           echo `pwd`/mdbook-embedify >> $GITHUB_PATH
       - name: Setup Pages
         id: pages

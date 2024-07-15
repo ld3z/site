@@ -41,7 +41,11 @@ jobs:
           echo `pwd`/mdbook >> $GITHUB_PATH
       - name: Install mdbook plugins
         run: |
-          cargo install mdbook-admonish
+          tag=$(curl 'https://api.github.com/repos/tommilligan/mdbook-admonish/releases/latest' | jq -r '.tag_name')
+          url="https://github.com/tommilligan/mdbook-admonish/releases/download/${tag}/mdbook-admonish-${tag}-x86_64-unknown-linux-gnu.tar.gz"
+          mkdir mdbook-admonish
+          curl -sSL $url | tar -xz --directory=./mdbook-admonish
+          echo `pwd`/mdbook-admonish >> $GITHUB_PATH
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5

@@ -50,4 +50,8 @@ Use *Dimension* to lower the claw.
 
 6. Go back to Subway map and give the potato to Mr. P. This will drain all of the water from the map and leave behind his hat, which can be picked up and worn by the player once equipped.
 
-## Operation: Employee
+## Operation: Employee ![Employee](https://demo.flyimg.io/upload/w_24/https://tr.rbxcdn.com/89c3e931ee8eb1e3477a4a4a67d0ee38/150/150/Image/Webp)
+
+1. Buy the *Suitcase*. Hold it after equipping Mr. P's hat to access the tall building in the lobby.
+
+2. Input the code `362761` when prompted. This allows for entry into the building and then into the glitch world.

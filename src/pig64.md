@@ -63,3 +63,23 @@ Use *Dimension* to lower the claw.
 2. Interact with Paco ![Paco](https://demo.flyimg.io/upload/w_24/https://static.wikia.nocookie.net/roblox-piggy-wikia/images/2/28/Paco_with_no_showing_leg.png/revision/latest?cb=20240708185546) and insert the code `HEEFTTECSE`. This will give you access to crafting.
 
 3. Craft all the ingots you can which are used to get different items from AJ Alpaca.
+
+## : eRrOr : ![error](https://demo.flyimg.io/upload/w_24/https://tr.rbxcdn.com/f9dc7a2cf5e8556c3ffbfafa9b1df311/150/150/Image/Webp)
+
+1. Leave and rejoin the game to access the normal world.
+
+2. Obtain the *Brightblade* from AJ Alpaca.
+
+3. Hit a player with the *Brightblade*. The screen will heavily be tinted red, followed by being blacked out as the following lines appear on screen:
+
+```
+The soft locks put in place only contained them for so long.
+
+We really did try to make the Warehouse unobtainable, but they found a way.
+
+What you've written in this code, the entire foundation, it can't be discovered, Ronald.
+
+They're banned for now, but not rightfully.
+
+Our time is running out.
+```

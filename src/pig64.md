@@ -12,7 +12,7 @@ The *Subway* and *Mall* maps should be unlocked before doing the quests.
 This quest is not possible on console/with a controller due to several things like keypads, pipe puzzles and crafting not being picked up as buttons on a controller. So, it is suggested that players doing this should use a mobile device or PC if possible.
 ```
 
-## Potato Pout ![PotatoPout](/img/potpout.png =500x400)
+## Potato Pout ![PotatoPout](https://demo.flyimg.io/upload/w_24/https://tr.rbxcdn.com/15d94576fbed8261ae81f54dd3b5eb3d/150/150/Image/Webp)
 
 1. Use the *Glitch Key* given automatically by the Keymaster badge to open the glitched door in Subway. Interact with the crying Mr. P in the corner of the room. After talking to him, you'll want to head to the Arcade map.
 
@@ -30,7 +30,7 @@ The dice should light up green in the correct room. If the dice is not green, yo
 
 6. Give the Mrs. P photo to Mr.P. He will start crying and will flood the city.
 
-## Deep Depths
+## Deep Depths ![DeepDepth](https://demo.flyimg.io/upload/w_24/https://tr.rbxcdn.com/9785fa0de9ae9b6f4264078b8df3875a/150/150/Image/Webp)
 
 1. Activate the five valves across the flooded Subway, there are three in the city and two in the subway. They can be found next to the white grates.
    - *The Flippers* item from the shop can be bought to speed this part up.

@@ -1,4 +1,5 @@
 # Summary
 
 - [Home](./home.md)
-- [Pig 64 Guide](./pig64.md)
+- [Game Guides]
+  - [Pig 64 Guide](./pig64.md)

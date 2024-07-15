@@ -60,6 +60,6 @@ Use *Dimension* to lower the claw.
 
 1. Collect the items and complete the pipe puzzles scattered in each accessible area in the glitch world.
 
-2. Interact with Paco ![Paco](https://demo.flyimg.io/upload/w_36/https://static.wikia.nocookie.net/roblox-piggy-wikia/images/2/28/Paco_with_no_showing_leg.png/revision/latest?cb=20240708185546) and insert the code `HEEFTTECSE`. This will give you access to crafting.
+2. Interact with Paco ![Paco](https://demo.flyimg.io/upload/w_24/https://static.wikia.nocookie.net/roblox-piggy-wikia/images/2/28/Paco_with_no_showing_leg.png/revision/latest?cb=20240708185546) and insert the code `HEEFTTECSE`. This will give you access to crafting.
 
 3. Craft all the ingots you can which are used to get different items from AJ Alpaca.

@@ -12,7 +12,7 @@ The *Subway* and *Mall* maps should be unlocked before doing the quests.
 This quest is not possible on console/with a controller due to several things like keypads, pipe puzzles and crafting not being picked up as buttons on a controller. So, it is suggested that players doing this should use a mobile device or PC if possible.
 ```
 
-## Potato Pout
+## Potato Pout ![PotatoPout](/img/potpout.png =32x32)
 
 1. Use the *Glitch Key* given automatically by the Keymaster badge to open the glitched door in Subway. Interact with the crying Mr. P in the corner of the room. After talking to him, you'll want to head to the Arcade map.
 
@@ -49,3 +49,5 @@ Use *Dimension* to lower the claw.
 5. Collect the purple potato from the claw machine.
 
 6. Go back to Subway map and give the potato to Mr. P. This will drain all of the water from the map and leave behind his hat, which can be picked up and worn by the player once equipped.
+
+## Operation: Employee

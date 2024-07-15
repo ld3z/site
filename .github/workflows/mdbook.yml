@@ -48,7 +48,7 @@ jobs:
           echo `pwd`/mdbook-admonish >> $GITHUB_PATH
       - name: Install mdBook embedify
         run: |
-        cargo install mdbook-embedify
+          cargo install mdbook-embedify
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5

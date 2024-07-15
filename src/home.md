@@ -1,3 +1,3 @@
 # Homepage
 
-Welcome to my site's homepage! :smirk:
+Welcome to my site's homepage!

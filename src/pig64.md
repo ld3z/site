@@ -1,7 +1,7 @@
 # Pig 64 Guide
 
 This is a page which will instruct someone, on how to obtain all of [Pig 64's](https://www.roblox.com/games/18109142315/PIG-64) badges.
-This will not go over how to get the Keymaster's badge from Piggy!
+**This will not go over how to get the Keymaster's badge from Piggy!**
 
 ```admonish info
 You need to have the [Keymaster's badge](https://www.rolimons.com/gamebadge/1368314122096465) from the main [Piggy](https://www.roblox.com/games/4623386862/Piggy) game before proceeding!

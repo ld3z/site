@@ -33,10 +33,19 @@ The dice should light up green in the correct room. If the dice is not green, yo
 ## Deep Depths
 
 1. Activate the five valves across the flooded Subway, there are three in the city and two in the subway. They can be found next to the white grates.
-   - The Flippers item from the shop can be bought to speed this part up.
+   - *The Flippers* item from the shop can be bought to speed this part up.
 
-2. Next, buy the Infinite Jar of Coins and the Boombox. This is needed for the next part.
+2. Next, buy the *Infinite Jar of Coins* and the *Boombox*. This is needed for the next part.
 
 3. Go to the Arcade and find the claw machine on the bottom floor.
 
-4. Move the claw using the songs on the boombox.
+4. Move the claw using the songs on the *Boombox*.
+
+```admonish example
+A song's capital letter indicates what direction the claw will move. For example, *rUmble* moves the claw up.
+Use *Dimension* to lower the claw.
+```
+
+5. Collect the purple potato from the claw machine.
+
+6. Go back to Subway map and give the potato to Mr. P. This will drain all of the water from the map and leave behind his hat, which can be picked up and worn by the player once equipped.

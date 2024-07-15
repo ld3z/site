@@ -40,7 +40,7 @@ jobs:
       - name: Install mdbook plugins
         run: |
           cargo install mdbook-admonish
-          cargo install mdbook-image-size
+          cargo install mdbook-tailor
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5

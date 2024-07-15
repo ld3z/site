@@ -72,7 +72,7 @@ Use *Dimension* to lower the claw.
 
 3. Hit a player with the *Brightblade*. The screen will heavily be tinted red, followed by being blacked out as the following lines appear on screen:
 
-```
+```markdown
 The soft locks put in place only contained them for so long.
 
 We really did try to make the Warehouse unobtainable, but they found a way.
@@ -83,3 +83,7 @@ They're banned for now, but not rightfully.
 
 Our time is running out.
 ```
+
+4. You will be forcefully kicked out of the game after the last line is done with the kick reason being ": eRrOr :"
+
+5. Rejoin the game. After rejoining, you will be prompted with a message from Netikz' moderation, and all wandering NPCs will not be visible

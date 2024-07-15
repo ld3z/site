@@ -2,6 +2,5 @@
 
 - [Home](./home.md)
   
-# Game Guides
-
-- [Pig 64 Guide](./pig64.md)
+- [GameGuides](./game-guides.md)
+  - [Pig 64 Guide](./pig64.md)

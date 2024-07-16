@@ -50,6 +50,7 @@ jobs:
         run: |
           cargo install mdbook-embedify
           cargo install mdbook-external-links
+          cargo install mdbook-emojicodes
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5

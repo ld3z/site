@@ -46,9 +46,10 @@ jobs:
           mkdir mdbook-admonish
           curl -sSL $url | tar -xz --directory=./mdbook-admonish
           echo `pwd`/mdbook-admonish >> $GITHUB_PATH
-      - name: Install mdBook embedify
+      - name: Install mdBook extensions
         run: |
           cargo install mdbook-embedify
+          cargo install mdbook-external-links
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5

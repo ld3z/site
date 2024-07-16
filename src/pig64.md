@@ -18,7 +18,7 @@ This quest is not possible on console/with a controller due to several things li
 
 2. In the arcade map, there are four tiny levers hidden around the map, you'll want to flip all four of them to get access to the Birdy Bank.
 
-3. Buy the *Big Dice* item for 60 tokens. Follow the cord going from the vault to a room in the arcade. In the room where the cord ends, use the *Big Dice* four times. The numbers it lands on at the end of each use are the four digits in order required for the vault code.
+3. Buy the *Big Dice* item for 60 tokens ![PiggyToken](https://demo.flyimg.io/upload/w_24,sh_3/https://static.wikia.nocookie.net/roblox-piggy-wikia/images/f/fa/PiggyTokenRender.png/revision/latest?cb=20211126001956). Follow the cord going from the vault to a room in the arcade. In the room where the cord ends, use the *Big Dice* four times. The numbers it lands on at the end of each use are the four digits in order required for the vault code.
 
 ```admonish
 The dice should light up green in the correct room. If the dice is not green, you are in the wrong room!

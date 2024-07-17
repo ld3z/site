@@ -48,8 +48,8 @@ jobs:
           echo `pwd`/mdbook-admonish >> $GITHUB_PATH
       - name: Install mdBook extensions
         uses: taiki-e/install-action@v2.42.1
-          with:
-            tool: mdbook-embedify,mdbook-external-links,mdbook-emojicodes
+        with:
+          tool: mdbook-embedify,mdbook-external-links,mdbook-emojicodes
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5

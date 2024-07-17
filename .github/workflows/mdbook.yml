@@ -54,6 +54,7 @@ jobs:
         uses: taiki-e/cache-cargo-install-action@v2
         with:
           tool: mdbook-image-size
+          git: https://github.com/lhybdv/mdbook-image-size.git
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5

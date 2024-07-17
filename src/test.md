@@ -1,3 +1,3 @@
 # This is a test page
 
-![PlaceHolder](placehold.png=32x32)
+<img src="/placehold.png" alt="image" style="width:32px;height:auto;">

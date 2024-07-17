@@ -31,4 +31,4 @@ announcement-banner.message = "Check out the Pig 64 guide [here](./pig64.md)!"
 
 [preprocessor.emojicodes]
 
-[output.pandoc]
+[preprocessor.tailor]

@@ -1,3 +1,3 @@
 # This is a test page
 
-![Image](placehold.png =32x32)
+![Image](placehold.png){ width=50% }

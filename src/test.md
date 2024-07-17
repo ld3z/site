@@ -1,3 +1,3 @@
 # This is a test page
 
-![Image](placehold.png)
+![Image](placehold.png =32x)

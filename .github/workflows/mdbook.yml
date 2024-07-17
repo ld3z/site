@@ -47,10 +47,9 @@ jobs:
           curl -sSL $url | tar -xz --directory=./mdbook-admonish
           echo `pwd`/mdbook-admonish >> $GITHUB_PATH
       - name: Install mdBook extensions
-        run: |
-          cargo install mdbook-embedify
-          cargo install mdbook-external-links
-          cargo install mdbook-emojicodes
+        uses: taiki-e/install-action@v2
+          with:
+            tool: mdbook-embedify,mdbook-external-links,mdbook-emojicodes
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5

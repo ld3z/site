@@ -32,4 +32,4 @@ announcement-banner.message = "Check out the Pig 64 guide [here](./pig64.md)!"
 [preprocessor.emojicodes]
 
 [output.pandoc]
-hosted-html = "https://ld3z.github.io/site" # URL of a HTML version of the book
+hosted-html = "https://ld3z.github.io/site"

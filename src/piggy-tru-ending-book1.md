@@ -3,7 +3,7 @@
 This is a page which will instruct someone, on how to obtain [Book 1's](https://www.rolimons.com/gamebadge/2124540781) True Ending!
 
 ```admonish info
-**You must have all the badges from chapters 1-12 in Piggy: Book 1, including both the Good and Bad endings on the Plant map. Leaving the server will reset your progress! It is recommended to attempt this ending in a private server. It is also recommended to have either alt accounts or other people to help get the badge.**
+**You must have all the badges from Chapters 1-12 in Piggy: Book 1, including both the Good and Bad endings on the Plant map. Leaving the server will reset your progress! It is recommended to attempt this ending in a private server. It is also recommended to have either alt accounts or other people to help get the badge.**
 ```
 
 ## Step 1:
@@ -41,5 +41,5 @@ If you didn't get the badge, make sure to check the following:
 
 3. Not leaving the server after finishing the City map.
 
-4. Not skipping the cutscene after you escape the Plant map. This will skip the ability to choose an ending and **reset everything**.
+4. Not skipping the cutscene after you escape the Plant map. This will skip the ability to choose an ending and **resets everything**.
 ```

@@ -1,3 +1,3 @@
 # This is a test page
 
-![PlaceHolder](./placehold.png "place holder" =32x)
+![PlaceHolder](./test/placehold.png "placeholder" =32x)

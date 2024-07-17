@@ -50,10 +50,6 @@ jobs:
         uses: taiki-e/install-action@v2.42.1
         with:
           tool: mdbook-embedify,mdbook-external-links,mdbook-emojicodes,mdbook-pandoc
-      - name: Install mdBook image-size
-        uses: taiki-e/cache-cargo-install-action@v2
-        with:
-          tool: mdbook-image-size
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5

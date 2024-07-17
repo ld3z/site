@@ -3,4 +3,5 @@
 List will be updated with more to come!
 
 - [Pig 64 Guide](./pig64.md)
+- [Piggy Book 1 True Ending](./piggy-tru-ending-book1.md)
 - [Cuphead](./cuphead.md)

@@ -33,3 +33,6 @@ command = "mdbook-image-size"
 [preprocessor.external-links]
 
 [preprocessor.emojicodes]
+
+[preprocessor.hide]
+hide = true

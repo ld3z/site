@@ -49,7 +49,7 @@ jobs:
       - name: Install mdBook extensions
         uses: taiki-e/install-action@v2.42.1
         with:
-          tool: mdbook-embedify,mdbook-external-links,mdbook-emojicodes
+          tool: mdbook-embedify,mdbook-external-links,mdbook-emojicodes,mdbook-hide
       - name: Install mdBook-image-size
         uses: taiki-e/cache-cargo-install-action@v2
         with:

@@ -1,7 +1,7 @@
 # Summary
 
 - [Home](./home.md)
-- [Test](./test.md)
+- [Test](./test/test.md)
   
 # Guides
 

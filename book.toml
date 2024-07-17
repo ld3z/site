@@ -30,3 +30,7 @@ announcement-banner.message = "Check out the Pig 64 guide [here](./pig64.md)!"
 [preprocessor.external-links]
 
 [preprocessor.emojicodes]
+
+[output.pandoc.profile.html]
+from = "commonmark"
+table-of-contents = true

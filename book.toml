@@ -28,7 +28,7 @@ announcement-banner.theme = "default"
 announcement-banner.message = "Check out the Pig 64 guide [here](./pig64.md)!"
 
 [preprocessor.image-size]
-command = "mdbook-image-size"
+renderers = ["html"]
 
 [preprocessor.external-links]
 

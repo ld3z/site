@@ -56,7 +56,6 @@ jobs:
           tool: mdbook-image-size
           git: https://github.com/lhybdv/mdbook-image-size.git
           rev: 1b4e8c4
-          locked: false
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5

@@ -34,7 +34,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: Install mdBook
         run: |
-          tag=$(curl 'https://api.github.com/repos/rust-lang/mdBook/releases/140225573' | jq -r '.tag_name')
+          tag=$(curl 'https://api.github.com/repos/rust-lang/mdBook/releases/latest' | jq -r '.tag_name')
           url="https://github.com/rust-lang/mdbook/releases/download/${tag}/mdbook-${tag}-x86_64-unknown-linux-gnu.tar.gz"
           mkdir mdbook
           curl -sSL $url | tar -xz --directory=./mdbook
@@ -54,13 +54,9 @@ jobs:
         uses: taiki-e/cache-cargo-install-action@v2
         with:
           tool: mdbook-image-size
-          git: https://github.com/lhybdv/mdbook-image-size.git
-          rev: 1b4e8c4
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-      - name: Say mdbook version
-        run: mdbook --version
       - name: Build with mdBook
         run: mdbook build
       - name: Upload artifact
